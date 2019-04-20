@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "PixelMplus12";
+  font-display: auto;
+  font-weight: normal;
+  src: url("/assets/font/PixelMplus12-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PixelMplus12";
+  font-display: auto;
+  font-weight: bold;
+  src: url("/assets/font/PixelMplus12-Bold.ttf") format("truetype");
+}

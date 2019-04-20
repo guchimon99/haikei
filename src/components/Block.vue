@@ -1,18 +1,17 @@
 <template>
-  <div class="app">
-    <router-view />
+  <div class="block">
+    <slot />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app',
-  components: { }
+  name: 'Block'
 }
 </script>
 
 <style lang="scss">
-.app {
-
+.block {
+  border-bottom: solid 0.1rem #000;
 }
 </style>
