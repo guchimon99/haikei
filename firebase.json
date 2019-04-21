@@ -17,7 +17,7 @@
     ],
     "rewrites": [
       {
-        "source": "/s/**",
+        "source": "/v/**",
         "function": "app"
       },
       {
